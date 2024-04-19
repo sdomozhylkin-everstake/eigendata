@@ -1,7 +1,7 @@
 {
   "name": "Everstake",
   "website": "https://everstake.one",
-  "description": "Everstake is a responsible validator trusted by 735k+ users across 70+ blockchains",
+  "description": "Everstake is one of the world’s biggest validators, servicing 735,000+ users across 70+ blockchains. As a node operator on Ethereum, we handle 1.9% of staked ETH, or 650,00+ ETH from 9,000+ stakers. Everstake has validated Ethereum since its PoS genesis, retaining a slashing-free operation. We boast ~99.9% uptime, battle-tested infrastructure, and a team of seasoned experts. In EigenLayer, Everstake’s mission is to support the most promising AVSs and provide the best delegation services for stakers.",
   "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/everstake/logo.png",
   "twitter": "https://twitter.com/everstake_pool"
 }
